@@ -1,0 +1,44 @@
+*{
+    font-family: Tahoma, Verdana, sans-serif;
+    font-size: 13px;
+    text-align: center;
+}
+.zakaz{
+    font-size: 18px;
+}
+.conteiner{
+    margin: auto;
+    width: 15%;
+}
+.button{
+    background-color: #88e0fd;
+    width: 100px;
+    height: 48px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+.button_Home{
+    background-color: #88e0fd;
+    width: 265px;
+    height: 37px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+.button_Home:hover{
+    background-color: #eea26f;
+}
+.button_FIO{
+    background-color: #eea26f;
+    border: none;
+    width: 265px;
+    height: 37px;
+    text-align: left;
+    color: #000;
+}
+
+.button:hover{
+    background-color: #88e0fd;
+}
+.flex{
+    display: flex;
+}
